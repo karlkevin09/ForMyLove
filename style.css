@@ -1,0 +1,31 @@
+*{
+    margin: 10px;
+    padding: 5px;
+    font-family: 'Times New Roman', Times, serif;
+    box-sizing: border-box;
+}
+html{
+    scroll-behavior: smooth;
+}
+body{
+    background: #eb3a3a;
+    color: #fff;
+}
+.intro{
+    background-image: url(Images/vd.jpg);
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.intro h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    text-align: center;
+    margin-top: 20px;
+    color: red;
+    margin-bottom: 35px;
+}
+#video{
+    text-align: center;
+}
